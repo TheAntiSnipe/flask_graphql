@@ -1,0 +1,1 @@
+Just a little something I made to run CRUD in a flask app leveraging GraphQL's schema that lets us easily make API calls without really caring about the precise mechanics behind the data.
